@@ -9,15 +9,15 @@ format: html
 
 **INF506: Data Wrangling and Management** introduces graduate students to data wrangling and management using **R** and the **Tidyverse** ecosystem. Students will learn to import, manipulate, clean, and visualize data with a strong emphasis on practical applications and reproducible workflows.
 
--   CS 506, Fall 2025, 3 units
--   Section 001: TuTh 9:35AM-10:50AM, Learning Resource Ctr Rm 106C
+-   CS 506, Spring 2026, 3 units
+-   Section 001: TuTh 12:45PM - 2:00PM, SICCS 223
 -   Prerequisite: Graduate status
 -   Mode of Instruction: Face-to-face (in person)
 -   Instructor's Name & Contact:
-    -   Marc Tollis (marc.tollis\@nau.edu)
-        -   Room 209, SICCS (Building 90, second floor)
-        -   Office Hours: Tue 11AM-12PM
-        -   928-523-3406
+    -   Crystal Hepp (crystal.hepp\@nau.edu)
+        -   Room 315, SICCS (Building 90, second floor)
+        -   Office Hours: Tue 2PM-3PM
+        -   928-523-7406
 
 ## Canvas & Recorded Lectures
 
@@ -25,7 +25,7 @@ We will use the learning management system, [Canvas](https://legacy.nau.edu/lms/
 
 ## CS506 Book Website
 
-I have compiled a [course website](https://marctollis.github.io/cs506-book/) that has supplemental text and coded examples that we will walk through in class. This website essentially serves as the course textbook and is required reading. There will be other required reading material.
+I have compiled a [course website](https://marctollis.github.io/cs506-book/) that has supplemental text and coded examples that we will walk through in class. This website  is required reading. There will be other required reading material.
 
 ------------------------------------------------------------------------
 
@@ -71,9 +71,9 @@ This course directly supports the following program student outcomes in the Mast
 
 **SO2.** Build the practical skills to explore, analyze, manage, and visualize large data sets using the latest technologies.
 
-**SO3.** Evaluate and use well accepted methods to obtain, clean, pre-process, and transform data for further processing.
+**SO3.** Evaluate and use well-accepted methods to obtain, clean, pre-process, and transform data for further processing.
 
-**SO4.** Apply data science and cutting-edge analytical methods to address data-rich problems from a variety of fields, think critically about data, and drive decision making.
+**SO4.** Apply data science and cutting-edge analytical methods to address data-rich problems from a variety of fields, think critically about data, and drive decision-making.
 
 **SO7.** Identify, appraise, and investigate ethical issues surrounding data collection, use, and data-driven decision making and to act in an informed and conscientious ethical manner.
 
@@ -105,9 +105,9 @@ This course directly supports the following program student outcomes in the Mast
 -   **Problem sets** are marked as **complete** or **incomplete**.
 -   **Quizzes** are written and completed in-class.
 -   **The final quiz** is a case study project starting in class and due during finals week.
--   **Workshops** will take up class time and attendance is required for the workshop grade.
+-   **Workshops** will take up class time, and attendance is required for the workshop grade.
 -   **Workshop** assignments will be submitted via Canvas.
--   All **Canvas-based assignments are due Sunday 11:59PM** the week they are assigned (except the Mini Hackathon).
+-   All **Canvas-based assignments are due Sunday by 11:59PM** the week they are assigned (except the Mini Hackathon).
 
 ------------------------------------------------------------------------
 
@@ -149,7 +149,7 @@ Students are encouraged to attend the office hours of the instructor. If a stude
 
 -   Emails addressed to the instructor must be **respectful and professional**. The instructor will respond to emails promptly, within 2 business days. The instructor will generally not respond to emails on weekends or after working hours (i.e., in the evenings), so please plan accordingly.
 
--   Cheating, including plagiarism of writing or computer code, will not be tolerated. All academic integrity violations are treated seriously. Academic integrity violations will result in penalties including, but not limited to, a zero on the assignment, a failing grade in the class, or expulsion from NAU. The University's Academic Integrity policies will be strictly enforced.
+-   Cheating, including plagiarism of writing or computer code, will not be tolerated. All academic integrity violations are treated seriously. Academic integrity violations will result in penalties, including, but not limited to, a zero on the assignment, a failing grade in the class, or expulsion from NAU. The University's Academic Integrity policies will be strictly enforced.
 
 -   Each student is required to demonstrate respect towards their peers and the instructor. The instructor is held to the same standard. - The instructor will not provide copies of course notes. These materials should be sought from the students’ peers or by watching the recorded lectures.
 
